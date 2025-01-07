@@ -1,6 +1,6 @@
 ![Wannaphong's github stats](https://github-readme-stats.vercel.app/api?username=wannaphong&show_icons=true)
 
-Hello! My name is Wannaphong Phatthiyaphaibun. I am a open source developer. I experienced Python programmers for 10 years+. Today, I am PhD student at VISTEC Thailand.
+Hello! My name is Wannaphong Phatthiyaphaibun. I am an open source developer. I experienced Python programmers for 10 years+. Today, I am PhD student at VISTEC Thailand.
 
 ## Contact
 
